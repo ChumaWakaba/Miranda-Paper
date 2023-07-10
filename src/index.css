@@ -24,3 +24,9 @@ body, html {
     src: url("./assets/EditorialNew-Light.woff2");
     format: ("woff2");
 }
+
+@font-face {
+    font-family: "ABCDiatype-Reg";
+    src: url("./assets/ABCDiatype-Regular.otf");
+    format: ("otf");
+}

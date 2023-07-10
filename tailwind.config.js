@@ -9,7 +9,8 @@ export default {
       fontFamily: {
         Canopee: "Canopee",
         CondMedium: "CondMedium",
-        NewLight: "NewLight"
+        NewLight: "NewLight",
+        Regular: "ABCDiatype-Reg"
       }
     },
   },
